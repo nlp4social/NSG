@@ -2,7 +2,7 @@
 ---
 
 $header-heading-color: white;
-$header-bg-color: #000;
+$header-bg-color: blue;
 $header-bg-color-secondary: #FFF;
 
 $section-headings-color: black;
@@ -41,6 +41,7 @@ $code-text-color: black;
 .page-header {
   color: $header-heading-color;
   text-align: left;
+  background-color: $header-bg-color;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
