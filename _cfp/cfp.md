@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /cfp/
+permalink: /cfp.html
 title: Call for Papers
 description: This is just another page
 nav: true
