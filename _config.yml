@@ -5,9 +5,9 @@ timezone: United Kingdom/Liverpool
 navigation:
   Home: "index.md"
   Call for Papers: "cfp.html"
-  Accepted Papers: "/papers"
+  Accepted Papers: "papers.html"
   Speakers: "speakers.html"
   Programme: "programme.html"
   Organizers: "organizers.html"
-  Past Events: "/past"
+  Past Events: "past.html"
 show_downloads: false
