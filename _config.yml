@@ -6,8 +6,8 @@ navigation:
   Home: "index.md"
   Call for Papers: "cfp.html"
   Accepted Papers: "/papers"
-  Speakers: "/speakers"
-  Programme: "/schedule"
-  Organizers: "/organizers"
+  Speakers: "speakers.html"
+  Programme: "programme.html"
+  Organizers: "organizers.html"
   Past Events: "/past"
 show_downloads: false
