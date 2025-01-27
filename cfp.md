@@ -1,12 +1,8 @@
 ---
 layout: default
-permalink: /cfp/
-title: Call for Papers
+title: Call For Papers
 description: This is just another page
-nav: true
-nav_order: 2
 ---
-
 
 ## Welcome to another page
 
