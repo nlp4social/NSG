@@ -8,8 +8,12 @@ nav_order: 6
 ---
 
 
-## Welcome to another page
+## Organizers
 
-_yay_
+Procheta Sen
+
+Tulika Saha
+
+Danushka Bollegala
 
 [back](./)
