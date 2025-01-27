@@ -4,7 +4,7 @@ timezone: United Kingdom/Liverpool
 
 navigation:
   Home: "index.md"
-  Call for Papers: "/cfp/cfp.md"
+  Call for Papers: "cfp.md"
   Accepted Papers: "/papers"
   Speakers: "/speakers"
   Programme: "/schedule"
