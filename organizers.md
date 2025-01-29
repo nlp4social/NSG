@@ -10,15 +10,15 @@ nav_order: 6
 
 ## Organizers
 
-![Procheta Sen](ps.jpg)  
+<img src="ps.jpg" alt="drawing" style="width:200px;height:250px;"/> <img src="ts.png" alt="drawing" style="width:200px;height:250px;"/> <img src="db.jpg" alt="drawing" style="width:200px;height:250px;"/>
 
-Procheta Sen
+[Procheta Sen](https://procheta.github.io/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tulika Saha](https://sahatulika15.github.io/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Danushka Bollegala](https://danushka.net/)
 
-![Tulika Saha](ts.png)
-Tulika Saha
 
-![Danushka Bollegala](db.jpg)
 
-Danushka Bollegala
+
+
+
+
 
 [back](./)
