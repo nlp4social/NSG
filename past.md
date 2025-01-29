@@ -8,8 +8,9 @@ nav_order: 7
 ---
 
 
-## Welcome to another page
+## Past Events
 
-_yay_
+[2nd Symposium on NLP for Social Good, 2024](https://nlp4social.github.io/nlp4socialgood/)
+[1st Symposium on NLP for Social Good, 2023]
 
 [back](./)
