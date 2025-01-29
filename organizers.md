@@ -14,7 +14,7 @@ nav_order: 6
 
 Procheta Sen
 
-![Tulika Saha](ts.jpg)
+![Tulika Saha](ts.png)
 Tulika Saha
 
 ![Danushka Bollegala](db.jpg)
