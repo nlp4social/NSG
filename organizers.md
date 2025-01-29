@@ -10,7 +10,7 @@ nav_order: 6
 
 ## Organizers
 
-Procheta Sen
+![Procheta Sen][ps.jpg]
 
 Tulika Saha
 
