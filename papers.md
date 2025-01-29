@@ -8,8 +8,8 @@ nav_order: 3
 ---
 
 
-## Welcome to another page
+## List of Accepted Papers
 
-_yay_
+To Be Announced.
 
 [back](./)
