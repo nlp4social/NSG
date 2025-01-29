@@ -3,7 +3,7 @@ description:  2025
 timezone: United Kingdom/Liverpool
 
 navigation:
-  Home: "index.md"
+  Home: "/NSG"
   Call for Papers: "cfp.html"
   Accepted Papers: "papers.html"
   Speakers: "speakers.html"
