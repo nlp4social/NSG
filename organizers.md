@@ -10,9 +10,14 @@ nav_order: 6
 
 ## Organizers
 
-![Procheta Sen][ps.jpg]
+![Procheta Sen](ps.jpg)  
 
+Procheta Sen
+
+![Tulika Saha](ts.jpg)
 Tulika Saha
+
+![Danushka Bollegala](db.jpg)
 
 Danushka Bollegala
 
