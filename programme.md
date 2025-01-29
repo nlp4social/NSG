@@ -8,8 +8,8 @@ nav_order: 5
 ---
 
 
-## Welcome to another page
+## Schedule
 
-_yay_
+To be Announced.
 
 [back](./)
