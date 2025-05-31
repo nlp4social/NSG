@@ -1,6 +1,7 @@
-title: 3rd Symposium on NLP for Social Good (NSG)
-description:  2025
+title: 3rd Symposium on NLP for Social Good 2025
+# description:  2025
 timezone: United Kingdom/Liverpool
+# logo: assets/css/NSG.png
 
 navigation:
   Home: "/NSG"
