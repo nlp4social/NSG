@@ -7,7 +7,7 @@ $header-bg-color-secondary: #FFF;
 
 $section-headings-color: black;
 $body-text-color: black !default;
-$body-link-color: #C41E3A !default;
+$body-link-color: #844f58 !default;
 $blockquote-text-color: #999 !default;
 
 $border-color: #999 !default;
@@ -55,7 +55,7 @@ $code-text-color: black;
   background-repeat: no-repeat;
   background-size: cover;
 // Should cover 50% of the page
-  height: 50vh;
+  // height: 50vh;
   // background-attachment: fixed;
  
   background-position: center;
@@ -153,3 +153,18 @@ abstract {
    
   }
 }
+
+.main-content{
+  //justify text
+  text-align: justify;
+}
+
+a {
+  color: $body-link-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
