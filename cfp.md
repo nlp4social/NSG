@@ -36,4 +36,4 @@ Topics of interest include but are not limited to:
 *Unique proposition and contribution in any 17 goals of SDG using NLP.
 
 
-[back](./)
+<!-- [back](./) -->
