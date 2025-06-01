@@ -5,35 +5,25 @@ title: Call For Papers
 # description: This is just another page
 ---
 
-## Call For Papers
+# Call For Papers
 
-Call for Papers:
+NSG-2025 invites authors to submit papers on research that leverages Natural Language Processing (NLP) techniques to address a wide range of social issues, including but not limited to education, law, healthcare, climate change, and any of the United Nations Sustainable Development Goals (SDGs).
 
-NSG-2025 invites authors to submit papers on research that exploits different NLP techniques to address different social issues (e.g. education, law, healthcare, climate change or any priorities in SDG).
+## Topics of Interest
 
+Topics of interest include, but are not limited to:
 
-Topics of interest include but are not limited to:
+<ul>
+  <li>Applications and solutions addressing the NLP for Social Good (NSG) theme.</li>
+  <li>Natural Language Interfaces and Interaction: design and implementation of natural language interfaces, user studies with human participants on NSG topics.</li>
+  <li>Large Language Models &amp; Vision Language Models: opportunities and risks of using LLMs and VLMs in NSG.</li>
+  <li>Innovative and responsible use of NLP for social good.</li>
+  <li>Explainable Artificial Intelligence (XAI): interpretability and transparency in NSG applications.</li>
+  <li>Corpus/Dataset Analysis: collection, creation, or analysis of datasets relevant to NSG topics.</li>
+  <li>Multi-modal solutions addressing the NSG theme.</li>
+  <li>Unique contributions to any of the 17 SDGs using NLP.</li>
+</ul>
 
-
-* Applications and solutions on different topics corresponding to NLP for Social Good (NSG) theme.
-
-
-* Natural Language Interfaces and Interaction: design and implementation of Natural Language Interfaces, user studies with human participants on issues related to NSG topics.
-
-
-* Large Language Models & Vision Language Models: Opportunities and Risks of using LLMs and VLMs in NSG.
-
-
-* Innovative and Responsible Use of Natural Language Processing for Social Good. * eXplainable Artificial Intelligence (XAI): Scope of Interpretability in NSG topics.
-
-
-* Corpus/Dataset Analysis: Corpus or dataset collection or analysis for NSG related topics
-
-
-* Multi-modal solutions to the theme of NSG.
-
-
-*Unique proposition and contribution in any 17 goals of SDG using NLP.
-
+For more information, please contact the organizers or visit our website.
 
 <!-- [back](./) -->
