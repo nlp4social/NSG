@@ -88,6 +88,21 @@ nav_order: 4
       The increasing demand for digital healthcare, coupled with current infrastructure limitations, requires digital therapeutic interventions. My talk will focus on the design and implementation of Virtual Mental Health Assistants modules that serve as therapist-assistive mechanisms to automate their complex work cycle. We work on building novel LLM-based methods for dialogue understanding, summarization, and generation, and our research captures the intricacies of therapeutic communication while incorporating signs into human behavior analysis. In support of this, we also develop datasets and resources, many of which are first-of-its-kind, including HOPE, MEMO, MENTAL-TRUST, MentalCLOUDS, and BeCOPe, all of which are available for research purposes. 
     </div>
   </div>
+
+
+
+
+
+   <div class="speaker-card">
+    <img src="assets/speaker_images/tommaso.png" alt="Tommaso Casell" class="speaker-img"/>
+    <div class="speaker-name"><a href="https://www.rug.nl/staff/t.caselli/?lang=en" target="_blank" rel="noopener">Tommaso Casell</a></div>
+    <div class="speaker-designation">Assistant professor, University of groningen</div>
+    <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Show Abstract</button>
+    <div class="speaker-abstract">
+      <strong>Framing Perspectives on Environmental Sustainability</strong><br>
+      Communication is at the core of every human activity. The way we speak, or narrate something, activates (consciously or unconsciously) perspectives on things that happen in the world. These perspectives are not simple points of view but they encode and influence our perception of events and phenomena. A ubiquitous device to encode and convey such perspectives is framing. The difference between "climate change" and "climate crisis" is primarily a difference in frames that these words activate in the minds of receivers: a "change" is more neutral and less urgent than a "crisis". In this talk, I will present and discuss ongoing research on frame activation and generation at the lexical level concerning the food transition and parliamentary debates on climate change in the European Union.
+    </div>
+  </div>
 </div>
 
 <script>
