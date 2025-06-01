@@ -2,7 +2,7 @@
 layout: default
 permalink: /organizers.html
 title: Organizers
-description: This is just another page
+# description: This is just another page
 nav: true
 nav_order: 6
 ---
@@ -10,9 +10,42 @@ nav_order: 6
 
 ## Organizers
 
-<img src="ps.jpg" alt="drawing" style="width:200px;height:250px;"/> <img src="ts.png" alt="drawing" style="width:200px;height:250px;"/> <img src="db.jpg" alt="drawing" style="width:200px;height:250px;"/>
+<style>
+.organizer-flex {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 3vw;
+  margin-bottom: 2vw;
+}
+.organizer-card {
+  text-align: center;
+}
+.organizer-img {
+  width: min(22vw, 200px);
+  height: min(22vw, 200px);
+  border-radius: 30%;
+  object-fit: cover;
+}
+</style>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Procheta Sen](https://procheta.github.io/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tulika Saha](https://sahatulika15.github.io/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Danushka Bollegala](https://danushka.net/)
+<div class="organizer-flex">
+  <div class="organizer-card">
+    <img src="ps.jpg" alt="Procheta Sen" class="organizer-img"/>
+    <div style="margin-top: 8px;"><a href="https://procheta.github.io/">Procheta Sen</a></div>
+    <div style="font-size: 0.95em; color: #555;">Assistant Professor<br>University of Liverpool</div>
+  </div>
+  <div class="organizer-card">
+    <img src="ts.png" alt="Tulika Saha" class="organizer-img"/>
+    <div style="margin-top: 8px;"><a href="https://sahatulika15.github.io/">Tulika Saha</a></div>
+    <div style="font-size: 0.95em; color: #555;">Assistant Professor | Honorary Lecturer <br>IIIB,Bangalore | University of Liverpool</div>
+  </div>
+  <div class="organizer-card">
+    <img src="db.png" alt="Danushka Bollegala" class="organizer-img"/>
+    <div style="margin-top: 8px;"><a href="https://danushka.net/">Danushka Bollegala</a></div>
+    <div style="font-size: 0.95em; color: #555;">Professor<br>University of Liverpool</div>
+  </div>
+</div>
 
 
 

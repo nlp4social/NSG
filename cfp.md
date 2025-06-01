@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Call For Papers
-description: This is just another page
+
+# description: This is just another page
 ---
 
 ## Call For Papers
