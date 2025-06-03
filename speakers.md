@@ -51,7 +51,7 @@ nav_order: 4
   box-shadow: 0 1px 4px rgba(0,0,0,0.06);
 }
 .speaker-toggle-btn {
-  background: #007acc;
+  background:rgb(25, 81, 102);
   color: #fff;
   border: none;
   border-radius: 5px;
