@@ -40,7 +40,7 @@ nav_order: 6
   <div class="organizer-card">
     <img src="ps.jpg" alt="Procheta Sen" class="organizer-img"/>
     <div style="margin-top: 8px;"><a href="https://procheta.github.io/">Procheta Sen</a></div>
-    <div style="font-size: 0.95em; color: #555;">Assistant Professor<br>University of Liverpool</div>
+    <div style="font-size: 0.95em; color: #555;">Assistant Professor<br>University of Liverpool, UK</div>
   </div>
   <div class="organizer-card">
     <img src="ts.png" alt="Tulika Saha" class="organizer-img"/>
@@ -50,7 +50,7 @@ nav_order: 6
   <div class="organizer-card">
     <img src="db.png" alt="Danushka Bollegala" class="organizer-img"/>
     <div style="margin-top: 8px;"><a href="https://danushka.net/">Danushka Bollegala</a></div>
-    <div style="font-size: 0.95em; color: #555;">Professor<br>University of Liverpool</div>
+    <div style="font-size: 0.95em; color: #555;">Professor<br>University of Liverpool, UK</div>
   </div>
 </div>
 
