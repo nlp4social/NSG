@@ -45,7 +45,7 @@ nav_order: 6
   <div class="organizer-card">
     <img src="ts.png" alt="Tulika Saha" class="organizer-img"/>
     <div style="margin-top: 8px;"><a href="https://sahatulika15.github.io/">Tulika Saha</a></div>
-    <div style="font-size: 0.95em; color: #555;">Assistant Professor | Honorary Lecturer <br>IIIT,Bangalore | University of Liverpool</div>
+    <div style="font-size: 0.95em; color: #555;">Assistant Professor | Honorary Lecturer <br>IIIT,Bangalore | University of Liverpool, UK</div>
   </div>
   <div class="organizer-card">
     <img src="db.png" alt="Danushka Bollegala" class="organizer-img"/>
