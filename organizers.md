@@ -27,6 +27,13 @@ nav_order: 6
   border-radius: 30%;
   object-fit: cover;
 }
+
+.volunteer-img {
+  width: min(15vw, 150px);
+  height: min(15vw, 150px);
+  border-radius: 30%;
+  object-fit: cover;
+}
 </style>
 
 <div class="organizer-flex">
@@ -38,7 +45,7 @@ nav_order: 6
   <div class="organizer-card">
     <img src="ts.png" alt="Tulika Saha" class="organizer-img"/>
     <div style="margin-top: 8px;"><a href="https://sahatulika15.github.io/">Tulika Saha</a></div>
-    <div style="font-size: 0.95em; color: #555;">Assistant Professor | Honorary Lecturer <br>IIIB,Bangalore | University of Liverpool</div>
+    <div style="font-size: 0.95em; color: #555;">Assistant Professor | Honorary Lecturer <br>IIIT,Bangalore | University of Liverpool</div>
   </div>
   <div class="organizer-card">
     <img src="db.png" alt="Danushka Bollegala" class="organizer-img"/>
@@ -47,8 +54,16 @@ nav_order: 6
   </div>
 </div>
 
+---
 
-
+## Student Volunteers
+<div class="organizer-flex">
+  <div class="organizer-card">
+    <img src="assets/speaker_images/danish.png" alt="Mohammed Danish Rabbani" class="volunteer-img"/>
+    <div style="margin-top: 8px;"><a href="https://www.linkedin.com/in/drd01/">Mohammed Danish Rabbani</a></div>
+    <div style="font-size: 0.95em; color: #555;">Research Scholar | SDET II<br>IIIT, Bangalore | Akamai Technologies</div>
+  </div>
+</div>
 
 
 
