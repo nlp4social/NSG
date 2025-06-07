@@ -91,7 +91,7 @@ nav_order: 4
   <div class="speaker-card">
     <img src="assets/speaker_images/tommaso.png" alt="Tommaso Casell" class="speaker-img"/>
     <div class="speaker-name"><a href="https://www.rug.nl/staff/t.caselli/?lang=en" target="_blank" rel="noopener">Tommaso Casell</a></div>
-    <div class="speaker-designation">Assistant professor, University of groningen</div>
+    <div class="speaker-designation">Assistant professor, University of Groningen, Netherlands</div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Show Abstract</button>
     <div class="speaker-abstract">
       <strong>Framing Perspectives on Environmental Sustainability</strong><br>
