@@ -126,6 +126,19 @@ nav_order: 4
       Moral reasoning is fundamental to human decision-making, influencing social interactions, policy-making, and ethical AI development. However, its computational study remains fragmented, with existing NLP research relying on disparate datasets and isolated tasks. To advance NLP for social good, we introduce UniMoral, a multilingual dataset designed to facilitate the development of AI systems that understand and navigate ethical dilemmas in diverse cultural settings. UniMoral integrates psychologically grounded and real-world moral dilemmas from social media, annotated with action choices, ethical principles, contributing factors, and consequences, alongside annotators’ moral and cultural profiles. Recognizing the cultural relativity of moral reasoning, UniMoral spans six languages—Arabic, Chinese, English, Hindi, Russian, and Spanish—enabling cross-cultural analysis. We assess its impact through benchmark evaluations of three large language models (LLMs) across four tasks: action prediction, moral typology classification, factor attribution analysis, and consequence generation. Our findings highlight that while LLMs can leverage implicit moral contexts, significant challenges remain in ensuring these models reason ethically across diverse sociocultural landscapes. UniMoral lays the foundation for more equitable, context-aware AI systems, fostering NLP applications that promote fairness, inclusivity, and ethical awareness in automated decision-making.
     </div>
   </div>
+    <div class="speaker-card">
+    <img src="assets/speaker_images/Shubham.png" alt="Shubham Kumar Nigam" class="speaker-img"/>
+    <div class="speaker-name"><a href="https://sites.google.com/view/shubhamkumarnigam/" target="_blank" rel="noopener">Shivani Kumar</a></div>
+    <div class="speaker-designation">PhD. Student, Indian Institute of Technology, Kanpur</div>
+    <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Show Abstract</button>
+    <div class="speaker-abstract">
+      <strong>In high-stakes domains like law, opaque AI models pose a significant barrier to real-world adoption. Legal professionals demand not just accurate predictions but interpretable reasoning paths that align with judicial logic. While explainability techniques have emerged to address this, they often provide post-hoc justifications rather than surfacing the actual reasoning that led to a decision, leading to a growing gap between model outputs and human trust.
+
+NyayaSutra introduces an interpretable and reliable AI framework for legal judgment prediction and reasoning, tailored to the Indian judiciary. It leverages a structured thinking paradigm, breaking down judgments into rhetorical segments, Facts, Issues, Arguments, Reasoning, and Decision, to ensure transparency and traceability. The system employs hybrid legal retrieval, instruction-tuned LLMs trained on annotated Indian judgments, and GRPO-based optimization using structured “thinking tokens.”
+
+By making legal reasoning interpretable from the ground up, NyayaSutra empowers legal professionals, researchers, and policymakers with factual, explainable, and trustworthy AI outputs, contributing meaningfully to the larger vision of NLP for Social Good.
+    </div>
+  </div>
   </div>
 
 
