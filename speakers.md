@@ -128,7 +128,7 @@ nav_order: 4
   </div>
     <div class="speaker-card">
     <img src="assets/speaker_images/Shubham.png" alt="Shubham Kumar Nigam" class="speaker-img"/>
-    <div class="speaker-name"><a href="https://sites.google.com/view/shubhamkumarnigam/" target="_blank" rel="noopener">Shivani Kumar</a></div>
+    <div class="speaker-name"><a href="https://sites.google.com/view/shubhamkumarnigam/" target="_blank" rel="noopener">Shubham Kumar Nigam</a></div>
     <div class="speaker-designation">PhD. Student, Indian Institute of Technology, Kanpur</div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Show Abstract</button>
     <div class="speaker-abstract">
