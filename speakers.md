@@ -127,12 +127,13 @@ nav_order: 4
     </div>
   </div>
     <div class="speaker-card">
-    <img src="assets/speaker_images/Shubham.png" alt="Shubham Kumar Nigam" class="speaker-img"/>
+    <img src="assets/speaker_images/shubham.png" alt="Shubham Kumar Nigam" class="speaker-img"/>
     <div class="speaker-name"><a href="https://sites.google.com/view/shubhamkumarnigam/" target="_blank" rel="noopener">Shubham Kumar Nigam</a></div>
     <div class="speaker-designation">PhD. Student, Indian Institute of Technology, Kanpur</div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Show Abstract</button>
     <div class="speaker-abstract">
-      <strong>In high-stakes domains like law, opaque AI models pose a significant barrier to real-world adoption. Legal professionals demand not just accurate predictions but interpretable reasoning paths that align with judicial logic. While explainability techniques have emerged to address this, they often provide post-hoc justifications rather than surfacing the actual reasoning that led to a decision, leading to a growing gap between model outputs and human trust.
+      <Strong>NyayaSutra: Enabling Reliable and Interpretable Legal Judgment through Structured Thinking</Strong>strong
+      In high-stakes domains like law, opaque AI models pose a significant barrier to real-world adoption. Legal professionals demand not just accurate predictions but interpretable reasoning paths that align with judicial logic. While explainability techniques have emerged to address this, they often provide post-hoc justifications rather than surfacing the actual reasoning that led to a decision, leading to a growing gap between model outputs and human trust.
 
 NyayaSutra introduces an interpretable and reliable AI framework for legal judgment prediction and reasoning, tailored to the Indian judiciary. It leverages a structured thinking paradigm, breaking down judgments into rhetorical segments, Facts, Issues, Arguments, Reasoning, and Decision, to ensure transparency and traceability. The system employs hybrid legal retrieval, instruction-tuned LLMs trained on annotated Indian judgments, and GRPO-based optimization using structured “thinking tokens.”
 
