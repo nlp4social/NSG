@@ -11,4 +11,5 @@ Artificial intelligence (AI), specifically, Natural Language Processing (NLP) is
 
 **🗓 Date:** 25th–26th June, 2025  
 **🌐 Virtual Event**
+
 **🔗 Registration:** [Register here](https://www.ticketsource.co.uk/nlp4socialgood)
