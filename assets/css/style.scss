@@ -11,7 +11,7 @@ $body-link-color: #844f58 !default;
 $blockquote-text-color: #999 !default;
 
 $border-color: #999 !default;
-$table-border-color: blue !default;
+$table-border-color: rgb(38, 148, 149) !default;
 $hr-border-color: #999 !default;
 
 $code-text-color: black;
@@ -166,5 +166,28 @@ a {
   &:hover {
     text-decoration: underline;
   }
+}
+
+// Custom table styling for programme schedule
+.schedule-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 2rem;
+  border-color: #000;
+}
+.schedule-table th, .schedule-table td {
+  border: 2px solid #000; // Black border
+  padding: 0.75em 1em;
+  text-align: left;
+}
+.schedule-table th {
+  background-color: #f2f6fa;
+  color: #258484;
+  text-align: center;
+  font-weight: bold;
+}
+.schedule-table td {
+  background-color: #fff;
+  color: #222;
 }
 
