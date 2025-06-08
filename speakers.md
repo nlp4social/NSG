@@ -106,7 +106,7 @@ nav_order: 4
 <div class="speaker-flex">
   <!-- Example Speaker Card: Duplicate and edit for each speaker -->
   <div class="speaker-card">
-    <img src="assets/speaker_images/Hasan.jpg" alt="Mohammad Rashedul Hasan" class="speaker-img"/>
+    <img src="assets/speaker_images/hassan.png" alt="Mohammad Rashedul Hasan" class="speaker-img"/>
     <div class="speaker-name"><a href="https://mrhasan-ai.github.io/" target="_blank" rel="noopener">M R Hasan</a></div>
     <div class="speaker-designation">Early Career Researcher, University of Nebraska-Lincoln</div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Show Abstract</button>
