@@ -99,8 +99,8 @@ nav_order: 4
     </div>
   </div>
    <div class="speaker-card">
-    <img src="assets/speaker_images/aparna.png" alt="Tommaso Casell" class="speaker-img"/>
-    <div class="speaker-name"><a href="https://www.rug.nl/staff/t.caselli/?lang=en" target="_blank" rel="noopener">Aparna Taneja</a></div>
+    <img src="assets/speaker_images/aparna.png" alt="Aparna Taneja" class="speaker-img"/>
+    <div class="speaker-name"><a href="https://research.google/people/106890/" target="_blank" rel="noopener">Aparna Taneja</a></div>
     <div class="speaker-designation">Google Research, India</div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Talk Abstract</button>
     <div class="speaker-abstract">
