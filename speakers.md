@@ -98,6 +98,16 @@ nav_order: 4
       Communication is at the core of every human activity. The way we speak, or narrate something, activates (consciously or unconsciously) perspectives on things that happen in the world. These perspectives are not simple points of view but they encode and influence our perception of events and phenomena. A ubiquitous device to encode and convey such perspectives is framing. The difference between "climate change" and "climate crisis" is primarily a difference in frames that these words activate in the minds of receivers: a "change" is more neutral and less urgent than a "crisis". In this talk, I will present and discuss ongoing research on frame activation and generation at the lexical level concerning the food transition and parliamentary debates on climate change in the European Union.
     </div>
   </div>
+   <div class="speaker-card">
+    <img src="assets/speaker_images/aparna.png" alt="Tommaso Casell" class="speaker-img"/>
+    <div class="speaker-name"><a href="https://www.rug.nl/staff/t.caselli/?lang=en" target="_blank" rel="noopener">Aparna Taneja</a></div>
+    <div class="speaker-designation">Google Research, India</div>
+    <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Talk Abstract</button>
+    <div class="speaker-abstract">
+      <strong>Using AI to assist in improving maternal and child health outcomes in underserved communities in India</strong><br>
+     The widespread availability of cell phones has enabled non-profits to deliver critical health information to their beneficiaries in a timely manner. However, significant fraction of beneficiaries drop out of the program and non-profits often have limited health-worker resources to place crucial service calls for live interaction with beneficiaries to prevent such engagement drops. To assist non-profits in optimizing this limited resource, we developed a Restless Multi-Armed Bandits (RMABs) system. The RMAB system was evaluated in collaboration with an NGO via a real-world service quality improvement study and showed a 30% reduction in engagement drops. This has inspired a lot of research from the team in the broad area of limited resource allocation using RMABs. More recently, we have presented efforts towards a foundation model for RMABs, additionally empowered by LLMs to offer more flexibility and adaptability to changing goals.
+</div>
+  </div>
   </div>
 
 ----
