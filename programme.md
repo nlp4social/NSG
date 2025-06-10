@@ -21,16 +21,20 @@ nav_order: 5
   </thead>
   <tbody>
     <tr>
+      <td>11:00 PM – 12:00 PM</td>
+      <td><strong>Invited Talk 1:</strong> Using AI to assist in improving maternal and child health outcomes in underserved communities in India<br><strong>Speaker:</strong> Aparna Taneja</td>
+    </tr>
+    <tr>
       <td>12:15 PM – 12:35 PM</td>
-      <td><strong>Invited Talk 1:</strong> Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral<br><strong>Speaker:</strong> Shivani Kumar</td>
+      <td><strong>Invited Talk 2:</strong> Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral<br><strong>Speaker:</strong> Shivani Kumar</td>
     </tr>
     <tr>
       <td>12:35 PM – 12:55 PM</td>
-      <td><strong>Invited Talk 2:</strong> NyayaSutra: Enabling Reliable and Interpretable Legal Judgment through Structured Thinking<br><strong>Speaker:</strong> Shubham Kumar</td>
+      <td><strong>Invited Talk 3:</strong> NyayaSutra: Enabling Reliable and Interpretable Legal Judgment through Structured Thinking<br><strong>Speaker:</strong> Shubham Kumar</td>
     </tr>
     <tr>
       <td>12:55 PM – 1:15 PM</td>
-      <td><strong>Invited Talk 3:</strong> Bridging Modalities, Improving Lives: How Multimodal AI Systems Can Enhance Educational Equity and Outcomes<br><strong>Speaker:</strong> Mohammad Rashedul Hasan</td>
+      <td><strong>Invited Talk 4:</strong> Bridging Modalities, Improving Lives: How Multimodal AI Systems Can Enhance Educational Equity and Outcomes<br><strong>Speaker:</strong> Mohammad Rashedul Hasan</td>
     </tr>
     <tr>
       <td>1:30 PM – 2:30 PM</td>
