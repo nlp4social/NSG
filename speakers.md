@@ -70,7 +70,7 @@ nav_order: 4
   <div class="speaker-card">
     <img src="assets/speaker_images/elliott_ash.png" alt="Elliott Ash" class="speaker-img"/>
     <div class="speaker-name"><a href="https://elliottash.com/" target="_blank" rel="noopener">Elliott Ash</a></div>
-    <div class="speaker-designation">Associate Professor, ETH Zurich</div>
+    <div class="speaker-designation"><span style="font-weight:600; color:#194e6a;">Associate Professor</span><br><span style="font-style:italic; color:#333;">ETH Zurich</span><br><span style="color:black">Switzerland</span></div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Talk Abstract</button>
     <div class="speaker-abstract">
       <strong>AI, Preferences, and Economics</strong><br>
@@ -81,7 +81,7 @@ nav_order: 4
   <div class="speaker-card">
     <img src="assets/speaker_images/tanmay.png" alt="Tanmoy Chakraborty" class="speaker-img"/>
     <div class="speaker-name"><a href="https://tanmoychak.com/" target="_blank" rel="noopener">Tanmoy Chakraborty</a></div>
-    <div class="speaker-designation">Associate Professor, IIT Delhi</div>
+    <div class="speaker-designation"><span style="font-weight:600; color:#194e6a;">Associate Professor</span><br><span style="font-style:italic; color:#333;">IIT Delhi</span><br><span style="color:black">India</span></div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Talk Abstract</button>
     <div class="speaker-abstract">
       <strong>Towards Enhanced Conversational Dynamics for Effective Virtual Therapist-Assistive Counseling</strong><br>
@@ -91,7 +91,7 @@ nav_order: 4
   <div class="speaker-card">
     <img src="assets/speaker_images/tommaso.png" alt="Tommaso Casell" class="speaker-img"/>
     <div class="speaker-name"><a href="https://www.rug.nl/staff/t.caselli/?lang=en" target="_blank" rel="noopener">Tommaso Caselli</a></div>
-    <div class="speaker-designation">Assistant professor, University of Groningen, Netherlands</div>
+    <div class="speaker-designation"><span style="font-weight:600; color:#194e6a;">Assistant Professor</span><br><span style="font-style:italic; color:#333;">University of Groningen</span><br><span style="color:black">Netherlands</span></div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Talk Abstract</button>
     <div class="speaker-abstract">
       <strong>Framing Perspectives on Environmental Sustainability</strong><br>
@@ -101,7 +101,7 @@ nav_order: 4
    <div class="speaker-card">
     <img src="assets/speaker_images/aparna.jpeg" alt="Aparna Taneja" class="speaker-img"/>
     <div class="speaker-name"><a href="https://research.google/people/106890/" target="_blank" rel="noopener">Aparna Taneja</a></div>
-    <div class="speaker-designation">Google Research, India</div>
+    <div class="speaker-designation"><span style="font-weight:600; color:#194e6a;">Research Scientist</span><br><span style="font-style:italic; color:#333;">Google Research</span><br><span style="color:black">India</span></div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Talk Abstract</button>
     <div class="speaker-abstract">
       <strong>Using AI to assist in improving maternal and child health outcomes in underserved communities in India</strong><br>
@@ -118,7 +118,7 @@ nav_order: 4
   <div class="speaker-card">
     <img src="assets/speaker_images/hassan.png" alt="Mohammad Rashedul Hasan" class="speaker-img"/>
     <div class="speaker-name"><a href="https://mrhasan-ai.github.io/" target="_blank" rel="noopener">M R Hasan</a></div>
-    <div class="speaker-designation">Early Career Researcher, University of Nebraska-Lincoln</div>
+    <div class="speaker-designation"><span style="font-weight:600; color:#194e6a;">Early Career Researcher</span><br><span style="font-style:italic; color:#333;">University of Nebraska-Lincoln</span><br><span style="color:black">USA</span></div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Talk Abstract</button>
     <div class="speaker-abstract">
       <strong>Bridging Modalities, Improving Lives: How Multimodal AI Systems Can Enhance Educational Equity and Outcomes</strong><br>
@@ -129,7 +129,7 @@ nav_order: 4
   <div class="speaker-card">
     <img src="assets/speaker_images/shivani.png" alt="Shivani Kumar" class="speaker-img"/>
     <div class="speaker-name"><a href="https://www.si.umich.edu/people/shivani-kumar" target="_blank" rel="noopener">Shivani Kumar</a></div>
-    <div class="speaker-designation">Postdoctoral Fellow, University of Michigan</div>
+    <div class="speaker-designation"><span style="font-weight:600; color:#194e6a;">Postdoctoral Fellow</span><br><span style="font-style:italic; color:#333;">University of Michigan</span><br><span style="color:black">USA</span></div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Talk Abstract</button>
     <div class="speaker-abstract">
       <strong>Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral</strong><br>
@@ -139,7 +139,7 @@ nav_order: 4
     <div class="speaker-card">
     <img src="assets/speaker_images/shubham.png" alt="Shubham Kumar Nigam" class="speaker-img"/>
     <div class="speaker-name"><a href="https://sites.google.com/view/shubhamkumarnigam/" target="_blank" rel="noopener">Shubham Kumar Nigam</a></div>
-    <div class="speaker-designation">PhD. Student, Indian Institute of Technology, Kanpur</div>
+    <div class="speaker-designation"><span style="font-weight:600; color:#194e6a;">PhD Student</span><br><span style="font-style:italic; color:#333;">Indian Institute of Technology  Kanpur</span><br><span style="color:black">India</span></div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Talk Abstract</button>
     <div class="speaker-abstract">
       <Strong>NyayaSutra: Enabling Reliable and Interpretable Legal Judgment through Structured Thinking</Strong>strong
