@@ -21,7 +21,7 @@ nav_order: 5
   </thead>
   <tbody>
     <tr>
-      <td>11:00 PM – 12:00 PM</td>
+      <td>11:00 AM – 12:00 PM</td>
       <td><strong>Kenote Talk 1:</strong> Using AI to assist in improving maternal and child health outcomes in underserved communities in India<br><strong>Speaker:</strong> Aparna Taneja</td>
     </tr>
     <tr>
