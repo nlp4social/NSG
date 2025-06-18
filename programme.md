@@ -37,8 +37,12 @@ nav_order: 5
       <td><strong>Keynote Talk 2:</strong> Framing Perspectives on Environmental Sustainability<br><strong>Speaker:</strong> Tomasso Caselli</td>
     </tr>
      <tr>
-      <td>14:45 PM – 15:10 PM</td>
+      <td>14:45 PM – 15:05 PM</td>
       <td><strong>Invited Talk 3:</strong> Bridging Modalities, Improving Lives: How Multimodal AI Systems Can Enhance Educational Equity and Outcomes<br><strong>Speaker:</strong> Mohammad Rashedul Hasan</td>
+    </tr>
+    <tr>
+      <td>15:05 PM – 15:25 PM</td>
+      <td><strong>Invited Talk 4:</strong> Towards Empathetic AI: Safe AI Practice in Behavioral Therapy<br><strong>Speaker:</strong> Vivek Kumar</td>
     </tr>
   </tbody>
 </table>
