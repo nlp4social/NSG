@@ -152,7 +152,7 @@ By making legal reasoning interpretable from the ground up, NyayaSutra empowers 
   </div>
   <div class="speaker-card">
     <img src="assets/speaker_images/vivek.jpeg" alt="Vivek Kumar" class="speaker-img"/>
-    <div class="speaker-name"><a href="https://sites.google.com/view/shubhamkumarnigam/" target="_blank" rel="noopener">Vivek Kumar</a></div>
+    <div class="speaker-name"><a href="https://www.unibw.de/aiml/personen/vivek-k" target="_blank" rel="noopener">Vivek Kumar</a></div>
       <div class="speaker-designation"><span style="font-weight:600; color:#194e6a;">Senior Researcher at the Chair of Open Source Intelligence</span><br><span style="font-style:italic; color:#333;">INF 7 Institute for Data Security</span><br><span style="color:black">Germany</span></div>
     <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Talk Abstract</button>
     <div class="speaker-abstract">
