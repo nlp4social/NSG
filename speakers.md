@@ -150,6 +150,16 @@ NyayaSutra introduces an interpretable and reliable AI framework for legal judgm
 By making legal reasoning interpretable from the ground up, NyayaSutra empowers legal professionals, researchers, and policymakers with factual, explainable, and trustworthy AI outputs, contributing meaningfully to the larger vision of NLP for Social Good.
     </div>
   </div>
+  <div class="speaker-card">
+    <img src="assets/speaker_images/vivek.jpeg" alt="Vivek Kumar" class="speaker-img"/>
+    <div class="speaker-name"><a href="https://sites.google.com/view/shubhamkumarnigam/" target="_blank" rel="noopener">Vivek Kumar</a></div>
+      <div class="speaker-designation"><span style="font-weight:600; color:#194e6a;">Senior Researcher at the Chair of Open Source Intelligence</span><br><span style="font-style:italic; color:#333;">INF 7 Institute for Data Security</span><br><span style="color:black">Germany</span></div>
+    <button class="speaker-toggle-btn" onclick="toggleAbstract(this)">Talk Abstract</button>
+    <div class="speaker-abstract">
+      <Strong>Towards Empathetic AI: Safe AI Practice in Behavioral Therapy </Strong>
+ While Large Language Models (LLMs) have demonstrated remarkable capabilities in generating human-like text, their reliable application in low-resource domains such as mental health remains limited. This challenge primarily arises from the domain's inherent complexity and the scarcity of high-quality, labeled data, which can contribute to bias, hallucinations, and a lack of emotional nuance. This work presents a mixed-methods approach to evaluate the efficacy of LLMs in psychotherapy, specifically in generating accurate summaries of Motivational Interviewing (MI) dialogues. The experimental design explores two summarization levels: (i) full-session and (ii) utterance-level MI summaries. The work evaluates 13 state-of-the-art (SOTA) large language models (LLMs) alongside classical natural language processing (NLP) methods for plausible in-context data generation. The work introduces a novel two-stage evaluation scheme grounded in the Motivational Interviewing Treatment Integrity (MITI) framework, assessing key components such as evocation, collaboration, autonomy, direction, empathy, and non-judgmental attitude. These criteria are used to evaluate semantic drift, hallucinations, MI adherence, fluency, and contextual coherence.
+Additionally, the study benchmarks LLMs on NLP downstream tasks, including automated annotation and multi-class, multi-label classification. The findings offer insights into the capacity of LLMs to model complex psychological constructs and provide best practices for mitigating semantic drift in therapeutic contexts. This study also contributes a publicly available dataset comprising 1,764 MI dialogues—both low- and high-quality—encompassing approximately 81,000 therapist-client talk turns.
+  </div>
   </div>
 
 
