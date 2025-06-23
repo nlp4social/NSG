@@ -34,7 +34,7 @@ nav_order: 5
     </tr>
     <tr>
       <td>13:30 PM – 14:30 PM</td>
-      <td><strong>Keynote Talk 2:</strong> Framing Perspectives on Environmental Sustainability<br><strong>Speaker:</strong> Tomasso Caselli</td>
+      <td><strong>Keynote Talk 2:</strong> Framing Perspectives on Environmental Sustainability<br><strong>Speaker:</strong> Tommaso Caselli</td>
     </tr>
      <tr>
       <td>14:45 PM – 15:05 PM</td>
