@@ -67,6 +67,10 @@ nav_order: 5
       <td>11:30 AM – 12:30 PM</td>
       <td><strong>Keynote Talk 3:</strong> Towards Enhanced Conversational Dynamics for Effective Virtual Therapist-Assistive Counseling<br><strong>Speaker:</strong> Tanmoy Chakraborty</td>
     </tr>
+     <tr>
+      <td>12:30 AM – 12:45 PM</td>
+      <td><strong>Closing Remarks:</strong> Danushka Bollegala </td>
+    </tr>
   </tbody>
 </table>
 
