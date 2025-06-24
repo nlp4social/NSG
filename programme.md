@@ -69,7 +69,7 @@ nav_order: 5
     </tr>
      <tr>
       <td>12:30 AM – 12:45 PM</td>
-      <td><strong>Closing Remarks:</strong> Danushka Bollegala </td>
+      <td><strong>Closing Remarks:</strong> Professor Danushka Bollegala, University of Liverpool, Amazon Scholar </td>
     </tr>
   </tbody>
 </table>
