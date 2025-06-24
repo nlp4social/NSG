@@ -61,7 +61,7 @@ nav_order: 5
   <tbody>
     <tr>
       <td>10:00 AM – 11:00 AM</td>
-      <td><strong>Keynote Talk 2:</strong> AI, Preferences, and Economics<br><strong>Speaker:</strong> Elliott Ash</td>
+      <td><strong><s>Keynote Talk 2:</s></strong> <s>AI, Preferences, and Economics</s><br><strong>Speaker:</strong><s>Elliott Ash</s>Cancelled</td>
     </tr>
     <tr>
       <td>11:30 AM – 12:30 PM</td>
